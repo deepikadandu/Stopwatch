@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(rgba(97, 203, 210, 0.6),
+        rgb(156, 227, 101),
+        #c961bf);
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    background-image: linear-gradient(to left,
+        #cb61f475,
+        rgba(223, 191, 191, 0.334));
+    border-radius: 50%;
+    box-shadow: 0 0 51px 3px grey;
+    width: 600px;
+    height: 400px;
+   
+  }
+  /* display */
+  #display {
+    background-color: blueviolet;
+    color: #b8e89a;
+    box-shadow: 0 0 21px 3px #63adadde;
+    border-radius: 25px;
+  }
+  /* Button */
+  .btn {
+    font-size: larger;
+    font-weight: bold;
+    background-color: #91e36b58;
+    height: 55px;
+    width: 105px;
+    box-shadow: 0 0 10px 0.1px #93b8e6;
+    border-radius: 25%;
+    
+  }
+  
+  #buttons {
+    display: flex;
+    flex-wrap: wrap;
+  }
