@@ -16,4 +16,10 @@ This stopwatch app uses ONLY vanilla javascript, no libraries or frameworks of J
 #link:
 
  Run:http://127.0.0.1:5500/
+
+ OUTPUT:
+   
+
+                   
+
           
