@@ -19,11 +19,11 @@ This stopwatch app uses ONLY vanilla javascript, no libraries or frameworks of J
 
  # SCREENSHOT:
 ### start
-    ![Alt text](images/start.png)
+[start](images/start.png)
 ### stop
-     ![Alt text](images/stop.png)  
+[stop](images/stop.png)  
 ### Reset
-    ![Alt text](images/reset.png)
+[reset](images/reset.png)
    
 
    
